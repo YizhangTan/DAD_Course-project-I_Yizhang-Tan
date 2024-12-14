@@ -10,6 +10,8 @@ Filter games by type: indie games or commercial games.
 
 ！！！Deployment URL！！！
 Visit the application:
+https://yizhangtan.github.io/DAD_Course-project-I_Yizhang-Tan/
+I can't log into firebase in China... I don't know if it's a firewall or something, but I can't get it to work even if I try...
 
 ！！！Key Features！！！
 Homepage:
